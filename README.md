@@ -1,0 +1,1 @@
+This project was part of the assignment in my Object Oriented Programming class where we were supposed to design the popularly known falling bricks or falling blocks game using the concepts of JAVA-FX.
